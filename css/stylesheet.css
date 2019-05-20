@@ -6,3 +6,17 @@
   height: 768px;
   color: white;
 }
+.mainDescriptionTitle {
+  background-color: purple;
+  height: 100px;
+  text-align: center;
+}
+.mainDescriptionInfo {
+  background-color: teal;
+  height: 200px;
+}
+.mainServicesTitle {
+  background-color: red;
+  height: 100px;
+  text-align: center;
+}
