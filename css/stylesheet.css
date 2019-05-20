@@ -20,3 +20,42 @@
   height: 100px;
   text-align: center;
 }
+.busDevPic {
+  background-color: #496eaa;
+  height: 50px;
+  float: left;
+  width: 25%;
+}
+.busDevInfo {
+  background-color: #204e99;
+  height: 50px;
+  float: right;
+  width: 75%;
+}
+.mktInfo {
+  background-color: #48a846;
+  height: 50px;
+  float: left;
+  width: 75%;
+}
+.mktPic {
+  background-color: #347c33;
+  height: 50px;
+  float: right;
+  width: 25%;
+}
+.creativePic {
+  background-color: #edba3b;
+  height: 50px;
+  float: left;
+  width: 25%;
+}
+.creativeInfo {
+  background-color: #af8928;
+  height: 50px;
+  float: right;
+  width: 75%;
+}
+.marginSpace {
+  margin: 10px 10px 10px 10px;
+}
