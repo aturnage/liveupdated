@@ -59,3 +59,19 @@
 .marginSpace {
   margin: 10px 10px 10px 10px;
 }
+.firstLink {
+  float: left;
+  width: 40%;
+}
+.logo {
+  height: 100px;
+}
+.navBar {
+  list-style: none;
+  height: 100px;
+}
+.linkHeader {
+  display: inline-block;
+  width: 10%;
+  float: right;
+}
